@@ -1,0 +1,154 @@
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+                                                                                               sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+xst -ise "C:/pic24nou1/pic24nou1.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/pic24nou1/PIC24.sch" PIC24.vhf

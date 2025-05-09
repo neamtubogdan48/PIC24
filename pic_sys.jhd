@@ -1,0 +1,5 @@
+MODULE pic_sys
+	SUBMODULE PIC24
+		INSTANCE u_pic
+	SUBMODULE Iface_s3
+		INSTANCE u_iface
